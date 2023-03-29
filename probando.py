@@ -7,3 +7,4 @@ class Animales:
 perro=Animales("perruno","toby")
 print(perro.especie)
 print(perro.nombre)
+print('nueva linea añadida')
